@@ -9,13 +9,13 @@
         <module name="mycoolapp (4)" />
         <module name="cruddemo" />
         <module name="mycoolapp (5)" />
-        <module name="coreiocdemo" />
         <module name="mycoolapp (2)" />
         <module name="mycoolapp (3)" />
         <module name="mycoolapp (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="coreiocdemo" target="17" />
       <module name="mycoolapp" target="17" />
     </bytecodeTargetLevel>
   </component>
