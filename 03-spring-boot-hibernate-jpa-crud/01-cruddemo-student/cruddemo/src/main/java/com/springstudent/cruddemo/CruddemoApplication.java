@@ -17,7 +17,7 @@ public class CruddemoApplication {
 	}
 
 	@Bean
-	public CommandLineRunner commandLineRunner (StudentDAO studentDAO){
+		public CommandLineRunner commandLineRunner (StudentDAO studentDAO){
 
 //		uncomment method below to see how it works.
 
